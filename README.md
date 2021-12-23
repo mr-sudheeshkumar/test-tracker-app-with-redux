@@ -2,10 +2,10 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/mr-sudheeshkumar/Product-Management-APIs-EXPRESS-/blob/main/assignment5/app.js)
 
 ## **GOAL**
-The Goal of this app is to develop a task tracker app with the help of react and integrating redux in it.
+The Goal of this app is to develop a task tracker app with the help of react and using redux in it.
 
 
-### ***Assignment 8***
+### ***Assignment 10***
 ##### *It's a simple  task tracker app made with react and redux using sandbox.*
 
 
